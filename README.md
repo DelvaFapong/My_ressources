@@ -1,2 +1,2 @@
 # My_ressources
-Pour de ressources personnelles
+Pour des ressources personnelles
